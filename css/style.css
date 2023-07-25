@@ -21,7 +21,6 @@
 
 .navbar hr {
     color: #516f90;
-    ;
 }
 
 .button button {
@@ -94,7 +93,7 @@
     padding: 20px;
     box-shadow: 0px -12px 0px 0px #b7ecec;
     position: sticky;
-    right: 0;
+    left: 1500px;
     bottom: 0;
 }
 
