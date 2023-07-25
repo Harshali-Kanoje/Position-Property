@@ -1,0 +1,88 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 200px;
+    flex-direction: column;
+    background-color: #213343;
+    color: white;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.navbar .i-cross i {
+    position: relative;
+    right: -743px;
+    top: -85px;
+    font-size: 30px;
+}
+
+.navbar hr {
+    color: #516f90;
+    ;
+}
+
+.button button {
+    border-radius: 5px;
+    padding: 10px 50px;
+    background-color: white;
+    color: #2e475d;
+    margin-left: 10px;
+    border: none;
+}
+
+.navbar .button .color-btn {
+    background-color: #213343;
+    color: white;
+}
+
+.header {
+    margin-top: 213px;
+    padding: 0px 200px;
+}
+
+.header h1 {
+    font-size: 50px;
+    color: #2e475d;
+}
+
+.header .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .header-content .profile {
+    display: flex;
+    align-items: center;
+}
+
+.header .header-content .profile img {
+    border-radius: 50%;
+    height: 50px;
+}
+
+.header .header-content .profile .n-span {
+    color: #0b8484;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.header .header-content .date .d-span {
+    color: #3a5166;
+    ;
+    font-size: 20px;
+}
+
+.container {
+    width: 700px;
+    margin: auto;
+}
+
+.container .para {
+    color: #0b8484;
+    margin: 50px 0;
+    font-size: 23px;
+}
