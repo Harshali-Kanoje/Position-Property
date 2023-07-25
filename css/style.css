@@ -86,3 +86,35 @@
     margin: 50px 0;
     font-size: 23px;
 }
+
+.sticky-content {
+    width: 345px;
+    color: white;
+    background-color: #2e475d;
+    padding: 20px;
+    box-shadow: 0px -12px 0px 0px #b7ecec;
+    position: sticky;
+    right: 0;
+    bottom: 0;
+}
+
+.sticky-content i {
+    position: relative;
+    right: -317px;
+    top: -39px;
+    font-size: 25px;
+}
+
+.sticky-content p {
+    margin-top: 0;
+    font-size: 20px;
+    text-align: center;
+    /* margin-bottom: -5px; */
+}
+
+.sticky-content .sticky-btn{
+    color: #2e475d;
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+}
